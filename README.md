@@ -1,7 +1,7 @@
 # SAF
 
 ## Was ist SAF ?
-SAF steht für System Architecture Framework. Es wird durch die Mitglieder einer [Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [GfSE](https://www.gfse.de) entwickelt.
+SAF steht für System Architecture Framework. Es wird durch die Mitglieder der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering (GfSE) ](https://www.gfse.de) entwickelt.
 
 * SAF ist ein Architecture Framework auf Basis von SysML, das die Modellbasierte Entwicklung technischer Systeme unterstützt.
 * SAF bezieht sich auf ISO42010, ISO15288, INCOSE Handbuch
