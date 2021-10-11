@@ -7,7 +7,7 @@ SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [S
 * SAF bezieht sich auf die Standards [ISO42010:2011](https://www.iso.org/standard/50508.html) und [ISO15288:2015](https://www.iso.org/standard/63711.html) sowie auf das [INCOSE SE Handbuch](https://www.incose.org/products-and-publications/se-handbook)
 * SAF bietet einen Strauß an Viewpoints an
 
-Ziele
+SAF Ziele
 * **Standardisierung** von Modellteilen und Viewpoints
 * **Unterstützung** bei der Erstellung, Analyse und Kommunikation der für Systems Engineering relevanten Inhalte
 * **Beschränkung des Modellierungsaufwandes** auf das Notwendige
