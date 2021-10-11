@@ -9,7 +9,7 @@ SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [S
 
 Ziele
 * **Standardisierung** von Modellteilen und Viewpoints
-* Unterstützung bei der Erstellung, Analyse und Kommunikation der **für Systems Engineering relevanten** Inhalte
+* **Unterstützung** bei der Erstellung, Analyse und Kommunikation der für Systems Engineering relevanten Inhalte
 * **Beschränkung des Modellierungsaufwandes** auf das Notwendige
 * **Modellierung planbar und skalierbar** machen
 
