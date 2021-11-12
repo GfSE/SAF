@@ -37,3 +37,7 @@ SAF besteht aus
   * SAF steht nicht in Konkurenz zu Enterprise Frameworks wie UAF, NAF, ModAF, ADMBw
   * SAF ist kompatibel zu Enterprise Frameworks
   * SAF fängt da an, wo Enterprise Frameworks aufhören
+
+## SAF Profil für SysML Tools und Beispiele
+ * [SAF für Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
+ * [SAF für Rhapsody Repository](https://github.com/GfSE/SAF-Rhapsody-Profile)
