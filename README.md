@@ -12,31 +12,29 @@ SAF Ziele
 * **Unterstützung** bei der Erstellung, Analyse und Kommunikation der für Systems Engineering relevanten Inhalte
 * **Beschränkung des Modellierungsaufwandes** auf das Notwendige
 * **Modellierung planbar und skalierbar** machen
+* **Automatisierung und Datenaustausch**
 
 SAF besteht aus 
 * Konzeptmodell und Profilspezifikation
 * Profilimplementierungen für einige kommerzielle Modellierungtools
 * Viewpoint Dokumentation
 
-## Was ist SAF nicht ? Wozu dient SAF nicht ?
-* SAF ist keine Methode
-  * SAF gibt keine vorgeschriebene Modellierungsstrategie vor, außer Sachzwänge
-  * SAF soll unterschiedliche Modellierungsstrategien und Methoden unterstützen
+## Was ist SAF ? Wozu dient SAF ?
+* SAF ist eine Toolbox: 
+  * SAF stellt Viewpoints für den Bedarf des SE bereit. 
+  * SAF deckt die technischen SE Prozesse der ISO15288 ab. 
+  * SAF ist neutral gegenüber Prozessen oder Methoden.
   
-* SAF ist kein Prozess 
-  * SAF basiert auf der ISO15288:2011 und dem INCOSE SE Handbuch und unterstützt die technischen SE Prozesse und Vorgehensweisen
-  * SAF ist aber als Toolbox zu verstehen
+* SAF ist offen: 
+  * SAF wird weiterentwickelt, neue Domänen, Aspekte und Viewpoints. 
+  * Eigene Viewpoints können erstellt werden.
   
-* SAF ist erweiterbar
-  * SAF Viewpoint Erweiterung durch eigene Viewpoint Definitionen nach Bedarf möglich
+* SAF ist Toolübergreifend: 
+  * Implementiert für verschiedene SysML Tools
   
-* SAF ist nicht endgültig
-  * SAF wird weiterentwickelt, neue Domänen, Aspekte und Viewpoints
-  
-* SAF ist kein Enterprise Framework
-  * SAF steht nicht in Konkurenz zu Enterprise Frameworks wie UAF, NAF, ModAF, ADMBw
-  * SAF ist kompatibel zu Enterprise Frameworks
-  * SAF fängt da an, wo Enterprise Frameworks aufhören
+* SAF ist eine Fortsetzung von Enterprise Frameworks: 
+  * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw. 
+  * SAF beginnt, wo Enterprise Frameworks aufhören.
 
 ## SAF Profil für SysML Tools und Beispiele
  * [SAF für Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
