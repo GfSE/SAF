@@ -1,5 +1,5 @@
 # System Architecture Framework (SAF)
-
+![saf logo](https://www.gfse.de/images/stories/GfSE_SAF_Logo.jpg)
 ## Was ist SAF ? Wozu dient SAF ?
 SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering e.V. ](https://www.gfse.de) gemeinsam entwickelt und getragen.
 
