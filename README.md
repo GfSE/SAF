@@ -38,4 +38,4 @@ SAF besteht aus:
 
 ## SAF Profil für SysML Tools und Beispiele
  * [SAF für Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
- * [SAF für Rhapsody Repository](https://github.com/GfSE/SAF-Rhapsody-Profile)
+ * SAF für Rhapsody Repository (**UpComming**)
