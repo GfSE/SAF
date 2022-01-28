@@ -1,6 +1,14 @@
 # System Architecture Framework (SAF)
 ![saf logo](https://www.gfse.de/images/stories/GfSE_SAF_Logo.jpg)
 
+## SAF Präsentationen und Veröffentlichungen
+* TdSE 2021 : Modell-basierter Bärentango mit dem System Architecture Framework
+* TdSE 2020 
+  * Motivation und Ziele des Systems Architecture Framework (SAF)
+  * The Operational Domain of the System Architecture Framework (SAF)
+* TdSE 2019 : Technical Application of the System Architecture Framework (SAF)
+
+
 ## Wer trägt SAF ? Wozu dient SAF ?
 SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering e.V. ](https://www.gfse.de) gemeinsam entwickelt und getragen.
 
