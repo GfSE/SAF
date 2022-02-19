@@ -5,21 +5,19 @@
  ## Was ist SAF ? Wozu dient SAF ?
 
 * SAF ist ein Rahmenwerk auf Basis von [SysML](https://www.omgsysml.org/) für die modellbasierte Dokumentation technischer Systeme.
+   * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit.
 * SAF ist ein Werkezugkasten: 
-  * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit. 
   * SAF deckt die technischen SE Prozesse der ISO15288:2015 ab und stützt sich ab auf
     * [ISO42010:2011](https://www.iso.org/standard/50508.html) und 
     * [ISO15288:2015](https://www.iso.org/standard/63711.html) sowie
-    * [INCOSE SE Handbuch](https://www.incose.org/products-and-publications/se-handbook).
+    * [INCOSE SE Handbuch v4](https://www.incose.org/products-and-publications/se-handbook).
   * SAF ist neutral gegenüber Prozessen oder Methoden.
 * SAF ist offen: 
-  * SAF wird weiterentwickelt, neue Domänen, Aspekte und Viewpoints. 
-  * Eigene Viewpoints können erstellt und hinzugefügt werden.
-* SAF ist autoren-werkzeug agnostisch: 
+  * SAF wird kontinuierlich weiterentwickelt.
+* SAF ist Autoren-Werkzeug agnostisch: 
   * SAF wird für drei kommerzielle SysML Autoren-Werkzeuge implementiert.
-* SAF ist eine Fortsetzung der Enterprise Frameworks: 
-  * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw. 
-  * SAF beginnt, wo Enterprise Frameworks aufhören.
+* SAF beginnt, wo Enterprise Frameworks aufhören: 
+  * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw.
 
 SAF Leistungen:
 * **Standardisierung** von Modellteilen und Viewpoints
@@ -34,7 +32,7 @@ SAF Leistungen:
 
 SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering e.V. ](https://www.gfse.de) gemeinsam entwickelt und getragen.
 
-Bei Fragen wenden Sie sich bitte an das folgende Postfach: SAF_Feedback(at)gfse.de
+Fragen schicken Sie sich bitte an das folgende Postfach: SAF_Feedback(at)gfse.de
 
 ## Working Group Products
  ## A) SAF Profil für SysML und ein Referenzbeispiel, das Fire-Forest-Detection-System
