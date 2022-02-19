@@ -41,6 +41,7 @@ SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [S
 SAF setzt sich zusammen aus:
 **Konzeptmodell** und **Profilspezifikation**
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
+
 **Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge**
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * Rational Rhapsody Repository
