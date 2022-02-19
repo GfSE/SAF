@@ -8,9 +8,7 @@
    * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit.
 * SAF ist ein Werkezugkasten: 
   * SAF deckt die technischen SE Prozesse der ISO15288:2015 ab und stützt sich ab auf
-    * [ISO42010:2011](https://www.iso.org/standard/50508.html) und 
-    * [ISO15288:2015](https://www.iso.org/standard/63711.html) sowie
-    * [INCOSE SE Handbuch v4](https://www.incose.org/products-and-publications/se-handbook).
+    * [ISO42010:2011](https://www.iso.org/standard/50508.html) und [ISO15288:2015](https://www.iso.org/standard/63711.html) sowie [INCOSE SE Handbuch v4](https://www.incose.org/products-and-publications/se-handbook).
   * SAF ist neutral gegenüber Prozessen oder Methoden.
 * SAF ist offen: 
   * SAF wird kontinuierlich weiterentwickelt.
