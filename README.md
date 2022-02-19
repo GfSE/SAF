@@ -7,7 +7,7 @@
 * SAF ist ein Rahmenwerk auf Basis von [SysML](https://www.omgsysml.org/) für die modellbasierte Dokumentation technischer Systeme.
 * SAF ist ein Werkezugkasten: 
   * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit. 
-  * SAF deckt die technischen SE Prozesse der ISO15288:2015 ab.
+  * SAF deckt die technischen SE Prozesse der ISO15288:2015 ab und stützt sich ab auf
     * [ISO42010:2011](https://www.iso.org/standard/50508.html) und 
     * [ISO15288:2015](https://www.iso.org/standard/63711.html) sowie
     * [INCOSE SE Handbuch](https://www.incose.org/products-and-publications/se-handbook).
@@ -16,7 +16,7 @@
   * SAF wird weiterentwickelt, neue Domänen, Aspekte und Viewpoints. 
   * Eigene Viewpoints können erstellt und hinzugefügt werden.
 * SAF ist autoren-werkzeug agnostisch: 
-  * SAF wird für drei kommerzielle SysML Autoren-Werkezeuge implementiert.
+  * SAF wird für drei kommerzielle SysML Autoren-Werkzeuge implementiert.
 * SAF ist eine Fortsetzung der Enterprise Frameworks: 
   * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw. 
   * SAF beginnt, wo Enterprise Frameworks aufhören.
@@ -39,8 +39,7 @@ SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [S
 SAF besteht aus:
 * **Konzeptmodell** und **Profilspezifikation**
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
-
-* Liste der unterstützten kommerziellen SysML Autoren-Werkezeuge 
+* **Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge**
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * Rational Rhapsody Repository
  * Enterprise Architect Repository
