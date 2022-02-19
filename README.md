@@ -34,6 +34,7 @@ SAF Leistungen:
 
 SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering e.V. ](https://www.gfse.de) gemeinsam entwickelt und getragen.
 
+Bei Fragen wenden Sie sich bitte an das folgende Postfach: SAF_Feedback(at)gfse.de
 
 ## Working Group Products
  ## A) SAF Profil für SysML und ein Referenzbeispiel, das Fire-Forest-Detection-System
