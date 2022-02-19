@@ -4,21 +4,20 @@
 ## Mission & Objectives
  ## Was ist SAF ? Wozu dient SAF ?
 
-SAF ist
-* ein Rahmenwerk auf Basis von [SysML](https://www.omgsysml.org/) für die modellbasierte Dokumentation technischer Systeme.
-* ein Werkezugkasten: 
+* SAF ist ein Rahmenwerk auf Basis von [SysML](https://www.omgsysml.org/) für die modellbasierte Dokumentation technischer Systeme.
+* SAF ist ein Werkezugkasten: 
   * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit. 
   * SAF deckt die technischen SE Prozesse der ISO15288:2015 ab.
     * [ISO42010:2011](https://www.iso.org/standard/50508.html) und 
     * [ISO15288:2015](https://www.iso.org/standard/63711.html) sowie
     * [INCOSE SE Handbuch](https://www.incose.org/products-and-publications/se-handbook).
   * SAF ist neutral gegenüber Prozessen oder Methoden.
-* offen: 
+* SAF ist offen: 
   * SAF wird weiterentwickelt, neue Domänen, Aspekte und Viewpoints. 
   * Eigene Viewpoints können erstellt und hinzugefügt werden.
-* autoren-werkzeug agnostisch: 
+* SAF ist autoren-werkzeug agnostisch: 
   * SAF wird für drei kommerzielle SysML Autoren-Werkezeuge implementiert.
-* eine Fortsetzung der Enterprise Frameworks: 
+* SAF ist eine Fortsetzung der Enterprise Frameworks: 
   * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw. 
   * SAF beginnt, wo Enterprise Frameworks aufhören.
 
@@ -55,3 +54,4 @@ SAF besteht aus:
 
  ## C) Planned Working Sessions at the Next Events
  ## D) Planned Presentations at the Next Events
+ 
