@@ -21,25 +21,27 @@
   * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw. 
   * SAF beginnt, wo Enterprise Frameworks aufhören.
 
-SAF Ziele:
+SAF Leistungen:
 * **Standardisierung** von Modellteilen und Viewpoints
 * **Unterstützung** bei der Erstellung, Analyse und Kommunikation der für Systems Engineering relevanten Inhalte
 * **Beschränkung des Modellierungsaufwandes** auf das Notwendige
 * **Modellierung planbar und skalierbar** machen
 * **Automatisierung und Datenaustausch** ermöglichen
 
+
 ## Leadership
  ## Wer trägt SAF ?
 
 SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering e.V. ](https://www.gfse.de) gemeinsam entwickelt und getragen.
 
+
 ## Working Group Products
  ## A) SAF Profil für SysML und ein Refrenzbeispiel, das Fire-Forest-Detection-System
 
 SAF besteht aus:
-* **Konzeptmodell** und **Profilspezifikation**
+**Konzeptmodell** und **Profilspezifikation**
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
-* **Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge**
+**Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge**
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * Rational Rhapsody Repository
  * Enterprise Architect Repository
