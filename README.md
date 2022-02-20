@@ -35,11 +35,11 @@ Fragen schicken Sie sich bitte an das folgende Postfach: SAF_Feedback(at)gfse.de
 ## Working Group Products
  ## A) SAF Profil für SysML und ein Referenzbeispiel, das Fire-Forest-Detection-System
 
-SAF setzt sich zusammen aus:
+SAF setzt sich zusammen aus :
 **Konzeptmodell** und **Profilspezifikation**
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
 
-**Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge**
+**Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge** :
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * Rational Rhapsody Repository
  * Enterprise Architect Repository
@@ -47,7 +47,7 @@ SAF setzt sich zusammen aus:
  ## B) SAF Präsentationen und Veröffentlichungen
 * TdSE 2021 : 
   * [Modell-basierter Bärentango mit dem System Architecture Framework](https://github.com/GfSE/SAF/raw/main/presentations/Modell-basierter%20B%C3%A4rentango%20mit%20dem%20System%20Architecture%20Framework.pdf)
-* TdSE 2020 
+* TdSE 2020 :
   * [Motivation und Ziele des System Architecture Framework (SAF)](https://github.com/GfSE/SAF/raw/main/presentations/Motivation%20und%20Ziele%20des%20System%20Architecture%20Framework.pdf)
   * [The Operational Domain of the System Architecture Framework (SAF)](https://github.com/GfSE/SAF/raw/main/presentations/The%20Operational%20Domain%20of%20the%20System%20Architecture%20Framework.pdf)
 
