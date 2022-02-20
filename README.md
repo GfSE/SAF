@@ -37,7 +37,7 @@ Fragen schicken Sie bitte an das folgende SAF Postfach: SAF_Feedback(at)gfse.de
  
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
 
-* Liste der von SAF unterstützten, kommerziellen SysML Autoren-Werkzeuge :
+Liste der von SAF unterstützten, kommerziellen SysML Autoren-Werkzeuge :
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * Rational Rhapsody Repository
  * Enterprise Architect Repository
