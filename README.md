@@ -33,10 +33,7 @@ SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [S
 Fragen schicken Sie sich bitte an das folgende Postfach: SAF_Feedback(at)gfse.de
 
 ## Working Group Products
- ## A) SAF Profil für SysML und ein Referenzbeispiel, das Fire-Forest-Detection-System
-
-SAF setzt sich zusammen aus :
-**Konzeptmodell** und **Profilspezifikation**
+ ## A) SAF Konzeptmodell und Profilspezifikation für SysML
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
 
 **Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge** :
