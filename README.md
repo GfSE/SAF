@@ -30,13 +30,14 @@ SAF Leistungen:
 
 SAF steht für System Architecture Framework. Es wird von den Mitgliedern der [SAF Arbeitsgruppe](https://www.gfse.de/arbeitsgruppen.html) der [Gesellschaft für Systems Engineering e.V. ](https://www.gfse.de) gemeinsam entwickelt und getragen.
 
-Fragen schicken Sie sich bitte an das folgende Postfach: SAF_Feedback(at)gfse.de
+Fragen schicken Sie bitte an das folgende SAF Postfach: SAF_Feedback(at)gfse.de
 
 ## Working Group Products
  ## A) SAF Konzeptmodell und Profilspezifikation für SysML
+ 
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
 
-**Liste der unterstützten kommerziellen SysML Autoren-Werkzeuge** :
+**Liste der unterstützten, kommerziellen SysML Autoren-Werkzeuge** :
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * Rational Rhapsody Repository
  * Enterprise Architect Repository
