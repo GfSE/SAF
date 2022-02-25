@@ -5,7 +5,7 @@
  ## Was ist SAF ? Wozu dient SAF ?
 
 **SAF steht für System Architecture Framework.**
-* SAF ist ein Rahmenwerk auf Basis von [SysML](https://www.omgsysml.org/) für die modellbasierte Dokumentation technischer Systeme.
+* SAF ist ein Rahmenwerk für die modellbasierte Dokumentation technischer Systeme auf Basis der standardisierten Modellierungssprache [SysML](https://www.omgsysml.org/).
    * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit.
 * SAF ist ein Werkezugkasten:
   * SAF ist neutral gegenüber Prozessen oder Methoden. 
