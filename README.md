@@ -37,6 +37,8 @@ Bei **Fragen** zu SAF schicken Sie bitte eine eMail an die folgende SAF Postfach
  ## A) SAF Profilspezifikation für SysML
 Ein Viewpoint, ein Vertrag zwischen Architekt und anderen Beteiligten, definiert die Regeln für den Aufbau von Views. Viewpoints verbinden Problem, Darstellung und Lösungsansatz. Ein View ist eine Beschreibung der gesamten System Architektur vom Standpunkt eines Satzes an Belangen der Beteiligten. “First of all, it has to be a valid view. If you can’t identify one of your stakeholders who would be interested in looking at that, then don’t do it.” Second, the stakeholder should benefit from looking at this particular view. “If you can’t answer that, it’s not relevant. It’s not a view.” (Jon Holt, INCOSE UK)
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
+"The specification of an architecture viewpoint provides conventions, e.g. AD elements, syntax and semantics, usage guidance and direction,to those who are creating, interpreting, or using the architecture views." (ISO 42010)
+
 
 Liste der von SAF unterstützten, kommerziellen SysML Autoren-Werkzeuge :
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
