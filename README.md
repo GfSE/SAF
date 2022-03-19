@@ -20,10 +20,10 @@
   * SAF ist kompatibel zu Enterprise Frameworks UAF, NAF, MoDAF, ADMBw.
 
 SAF Leistungen:
-* **Standardisierung** von Modellteilen und Viewpoints
+* **Standardisierung** der Modellierung von Systemarchitekturen als Integration verschiedener Perspektiven, um sicherzustellen, dass die Systemarchitektur konsistent ist und ein effektiveres Management der Komplexität erlaubt.
 * **Unterstützung** bei der Erstellung, Analyse und Kommunikation der für Systems Engineering relevanten Inhalte
-* **Beschränkung des Modellierungsaufwandes** auf das Notwendige
 * **Modellierung planbar und skalierbar** machen
+* **Beschränkung des Modellierungsaufwandes** auf das Notwendige
 * **Automatisierung und Datenaustausch** ermöglichen
 
 
