@@ -44,7 +44,7 @@ Ein Viewpoint, ein Vertrag zwischen Architekt und anderen Beteiligten, definiert
 Liste der von SAF unterstützten, kommerziellen SysML Autoren-Werkzeuge :
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
  * [IBM Rhapsody Repository](https://github.com/GfSE/SAF-Rhapsody-Profile)
- * Enterprise Architect Repository
+ * [Sparx Enterprise Architect Repository](https://github.com/GfSE/SAF-EA-Profile)
 
  ## B) SAF Präsentationen und Veröffentlichungen
 * Tag des Systems Engineering, TdSE, 2021 : 
