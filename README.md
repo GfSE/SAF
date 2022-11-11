@@ -58,5 +58,7 @@ Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autor
  * Tag des Systems Engineering, TdSE, 2022 : 
    * TdSE2022 Tutorial 3, Raum HNF S3, Viewpoints, Sichten und Aspekte als Denkmodelle und Projekt Planungsmittel
  
+ * GfSE Hannover Workshop, 2023
+ 
  ## D) Planned Presentations at the Next Events
  
