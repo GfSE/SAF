@@ -55,10 +55,6 @@ Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autor
   * [The Operational Domain of the System Architecture Framework (SAF)](https://github.com/GfSE/SAF/raw/main/presentations/The%20Operational%20Domain%20of%20the%20System%20Architecture%20Framework.pdf)
 
  ## C) Planned Working Sessions at the Next Events
- * Tag des Systems Engineering, TdSE, 2022 : 
-   * TdSE2022 Tutorial 3, Raum HNF S3, Viewpoints, Sichten und Aspekte als Denkmodelle und Projekt Planungsmittel
- 
- * GfSE Hannover Workshop, 2023
- 
+
  ## D) Planned Presentations at the Next Events
- 
+  * Tag des Systems Engineering, Würzburg, 15. bis 17. November 2023 : the Kangaroo Waltz
