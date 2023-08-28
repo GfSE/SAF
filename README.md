@@ -57,4 +57,4 @@ Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autor
  ## C) Planned Working Sessions at the Next Events
 
  ## D) Planned Presentations at the Next Events
-  * Tag des Systems Engineering, Würzburg, 15. bis 17. November 2023 : the Kangaroo Waltz
+  * Tag des Systems Engineering, Würzburg, 15. bis 17. November 2023 : SAF Meet and Greet!
