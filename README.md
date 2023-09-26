@@ -1,5 +1,5 @@
 # System Architecture Framework (SAF)
-![saf logo](https://github.com/GfSE/SAF/raw/main/graphics/Logo_SAF_ohne.png)
+![saf logo](https://github.com/GfSE/SAF/raw/main/graphics/Banner_SAF.png)
 
 ## Mission & Objectives
  ## Was ist SAF ? Wozu dient SAF ?
