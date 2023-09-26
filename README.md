@@ -51,14 +51,14 @@ Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autor
  * [Sparx Enterprise Architect Repository](https://github.com/GfSE/SAF-EA-Profile)
    * Release: [TdSE2022](https://github.com/GfSE/SAF-EA-Profile/branches)
 
- ## B) SAF Präsentationen und Veröffentlichungen
+## B) SAF Präsentationen und Veröffentlichungen
 * Tag des Systems Engineering, TdSE, 2021 : 
   * [Modell-basierter Bärentango mit dem System Architecture Framework (SAF)](https://github.com/GfSE/SAF/raw/main/presentations/Modell-basierter%20B%C3%A4rentango%20mit%20dem%20System%20Architecture%20Framework.pdf)
 * Tag des Systems Engineering, TdSE, 2020 :
   * [Motivation und Ziele des System Architecture Framework (SAF)](https://github.com/GfSE/SAF/raw/main/presentations/Motivation%20und%20Ziele%20des%20System%20Architecture%20Framework.pdf)
   * [The Operational Domain of the System Architecture Framework (SAF)](https://github.com/GfSE/SAF/raw/main/presentations/The%20Operational%20Domain%20of%20the%20System%20Architecture%20Framework.pdf)
 
- ## C) Planned Working Sessions at the Next Events
+ ## C) Planned Working Sessions at the Next Event
 
- ## D) Planned Presentations at the Next Events
-  * Tag des Systems Engineering, Würzburg, 15. bis 17. November 2023 : SAF Meet and Greet!
+ ## D) Planned Meet and Greet Session at the Next Event
+ * Tag des Systems Engineering, Würzburg, 15. bis 17. November 2023
