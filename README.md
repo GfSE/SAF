@@ -37,15 +37,19 @@ Bei **Fragen** zu SAF schicken Sie bitte eine eMail an die folgende SAF Postfach
 Die Releases der im git Repository bereitgestellten Produkte werden durch git Branches unterschieden, bzw.auf einander bezogen. Die aktuelle Entwicklung findet immer im "main" Branch statt.
  ## A) SAF Profilspezifikation für SysML
 Ein Viewpoint, ein Vertrag zwischen Architekt und anderen Beteiligten, definiert die Regeln für den Aufbau von Views. Viewpoints verbinden Problem, Darstellung und Lösungsansatz. Ein View ist eine Beschreibung der gesamten System Architektur vom Standpunkt eines Satzes an Belangen der Beteiligten. “First of all, it has to be a valid view. If you can’t identify one of your stakeholders who would be interested in looking at that, then don’t do it.” Second, the stakeholder should benefit from looking at this particular view. “If you can’t answer that, it’s not relevant. It’s not a view.” (Jon Holt, INCOSE UK)
-* [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)   Releases: [Initial-Release, TdSE2022](https://github.com/GfSE/SAF-Specification/branches)
+* [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
+  * Release: [Initial-Release, TdSE2022](https://github.com/GfSE/SAF-Specification/branches)
 
 "The specification of an architecture viewpoint provides conventions, e.g. AD elements, syntax and semantics, usage guidance and direction, to those who are creating, interpreting, or using the architecture views." (ISO 42010)
 
 
 Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autoren-Werkzeuge :
- * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)  Releases: [Initial Release](https://github.com/GfSE/SAF-Cameo-Profile/branches)
- * [IBM Rhapsody Repository](https://github.com/GfSE/SAF-Rhapsody-Profile)  Releases: [Initial Release](https://github.com/GfSE/SAF-Rhapsody-Profile/branches)
- * [Sparx Enterprise Architect Repository](https://github.com/GfSE/SAF-EA-Profile)  Releases: [TdSE2022](https://github.com/GfSE/SAF-EA-Profile/branches)
+ * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
+   * Release: [Initial Release](https://github.com/GfSE/SAF-Cameo-Profile/branches)
+ * [IBM Rhapsody Repository](https://github.com/GfSE/SAF-Rhapsody-Profile)
+   * Release: [Initial Release](https://github.com/GfSE/SAF-Rhapsody-Profile/branches)
+ * [Sparx Enterprise Architect Repository](https://github.com/GfSE/SAF-EA-Profile)
+   * Release: [TdSE2022](https://github.com/GfSE/SAF-EA-Profile/branches)
 
  ## B) SAF Präsentationen und Veröffentlichungen
 * Tag des Systems Engineering, TdSE, 2021 : 
