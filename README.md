@@ -6,7 +6,7 @@
 **SAF steht für System Architecture Framework.**
 * SAF ist ein Rahmenwerk für die modellbasierte Dokumentation technischer Systeme auf Basis der Modellierungssprache [SysML](https://www.omgsysml.org/).
    * SAF stellt Viewpoints für die Systems Engineering Bedarfe bereit.
-* SAF ist ein Werkezugkasten:
+* SAF ist ein Werkzeugkasten:
   * SAF ist neutral gegenüber Prozessen oder Methoden. 
   * SAF unterstützt die technischen SE Prozesse des Standards [ISO15288:2023](https://www.iso.org/standard/81702.html) und 
     die bewährten SE Praktiken des [INCOSE SE Handbuch](https://www.incose.org/products-and-publications/se-handbook).
