@@ -40,15 +40,11 @@ Ein Viewpoint, ein Vertrag zwischen Architekt und anderen interessierten Beteili
 
 “First of all, it has to be a valid view. If you can’t identify one of your stakeholders who would be interested in looking at that, then don’t do it.” Second, the stakeholder should benefit from looking at this particular view. “If you can’t answer that, it’s not relevant. It’s not a view.” (Jon Holt, INCOSE UK)
 * [Viewpoint Dokumentation](https://github.com/GfSE/SAF-Specification)
-  * Release: [Initial-Release, TdSE2022, TdSE2023](https://github.com/GfSE/SAF-Specification/branches)
 
 Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autoren-Werkzeuge :
  * [Cameo Systems Modeler Repository](https://github.com/GfSE/SAF-Cameo-Profile)
-   * Release: [Initial Release, TdSE2022, TdSE2023](https://github.com/GfSE/SAF-Cameo-Profile/branches)
  * [IBM Rhapsody Repository](https://github.com/GfSE/SAF-Rhapsody-Profile)
-   * Release: [Initial Release](https://github.com/GfSE/SAF-Rhapsody-Profile/branches)
  * [Sparx Enterprise Architect Repository](https://github.com/GfSE/SAF-EA-Profile)
-   * Release: [Initial Release, TdSE2022, TdSE2023](https://github.com/GfSE/SAF-EA-Profile/branches)
 
 ## B) SAF Präsentationen und Veröffentlichungen
 * Tag des Systems Engineering, TdSE, 2021 : 
