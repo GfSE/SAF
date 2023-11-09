@@ -34,7 +34,7 @@ Bei **Fragen** zu SAF schicken Sie bitte eine eMail an die folgende SAF Postfach
 ## Working Group Products
 Die Releases der im git Repository bereitgestellten SAF Produkte werden durch git Branches unterschieden bzw. auf einander bezogen. Die aktuelle Entwicklung findet immer im git **"main"** Branch der [SAF-Specification](https://github.com/GfSE/SAF-Specification) statt.
  ## A) SAF Profilspezifikation für SysML
-Ein Viewpoint, ein Vertrag zwischen Architekt und anderen interessierten Beteiligten, definiert die Regeln für den Aufbau von Views. Viewpoints verbinden Problembeschreibung, Lösungsansatz und formalisierte Darstellung. Ein View ist eine Beschreibung ausgewählter System Architektur Aspekte vom Standpunkt eines Satzes an Belangen der Beteiligten.
+Ein Viewpoint, ein Vertrag zwischen Architekten und anderen interessierten Beteiligten, definiert die Regeln für den Aufbau von Views. Viewpoints verbinden Problembeschreibung, Lösungsansatz und formalisierte Darstellung. Eine View ist eine Beschreibung ausgewählter System Architektur Aspekte vom Standpunkt eines Satzes an Belangen der Beteiligten.
 
 "The specification of an architecture viewpoint provides conventions, e.g. AD elements, syntax and semantics, usage guidance and direction, to those who are creating, interpreting, or using the architecture views." (ISO 42010)
 
