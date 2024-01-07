@@ -56,5 +56,4 @@ Profile und Beispiele für die von SAF unterstützten, kommerziellen SysML Autor
  ## C) Planned Working Sessions at the Next Event
 
  ## D) Planned Meet and Greet Session at the Next Event
- * [Tag des Systems Engineering, Würzburg, 15. bis 17. November 2023](https://www.tdse.org/)
-   * Treffen Sie die SAF Mitglieder **Live und in Farbe** auf dem TdSE2023 in Würzburg. Besuchen Sie uns auf dem Arbeitsgruppen Stand der GfSE. Wir freuen uns auf Ihre Fragen zu SAF.
+
